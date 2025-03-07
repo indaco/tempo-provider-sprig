@@ -2,13 +2,12 @@
 
 ## Sprig Provider for Tempo
 
-This package provides a **Sprig function provider** for [Tempo](https://github.com/indaco/tempo), allowing users to enhance their template functions with the powerful [Masterminds/sprig](https://github.com/Masterminds/sprig) library.
+This package provides a **Sprig function provider** for [tempo](https://github.com/indaco/tempo), allowing users to enhance their template functions with the powerful [Masterminds/sprig](https://github.com/Masterminds/sprig) library.
 
 ## 🚀 Features
 
 - 🛠️ **Adds Sprig functions** to Tempo templates.
 - 🔌 **Easy integration** with the Tempo CLI.
-- 🏗️ **Modular design**, allowing users to register additional custom functions.
 
 ## 🚀 Usage
 
